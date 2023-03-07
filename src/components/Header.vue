@@ -37,9 +37,7 @@ export default {
     margin-bottom: 24px;
   }
 
-  @media (max-width: 500px) {
-    header h1 {
-      font-size: 25px;
-    }
+  header h1 {
+    font-size: 1.9em;
   }
 </style>
