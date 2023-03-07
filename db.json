@@ -1,28 +1,22 @@
 {
   "tasks": [
     {
-      "text": "Play minimilitia ",
-      "date": "Every goddem day ",
+      "text": "Create a vercel account to host my project",
+      "date": "March 7 at 10:30am",
       "reminder": true,
-      "id": 3
-    },
-    {
-      "text": "Finish the project",
-      "date": "March 10 at 10:00am",
-      "reminder": false,
-      "id": 4
-    },
-    {
-      "text": "Prepare from Ramadhan",
-      "date": "as soon as posibble",
-      "reminder": true,
-      "id": 5
+      "id": 1
     },
     {
       "text": "Doctors Appointment",
-      "date": "March 6 at 10:00am",
+      "date": "March 10 at 10:00am",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Dentist apt",
+      "date": "March 9 at 10:00am",
       "reminder": true,
-      "id": 6
+      "id": 3
     }
   ]
 }
